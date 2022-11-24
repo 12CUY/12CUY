@@ -30,6 +30,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=12CUY&theme=react-dark"></a>
 </div>
 
+<a href="https://github.com/12CUY/github-readme-activity-graph"><img src="https://camo.githubusercontent.com/5f4fe614e41a07e3e972df250c6675615549c74f933f3eedcde7b9f435d0ccca/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d626173746e6465762662675f636f6c6f723d30643131313726636f6c6f723d666666666666266c696e653d30306233666626706f696e743d66396661666126617265613d7472756526686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=12CUY&amp;bg_color=0d1117&amp;color=ffffff&amp;line=00b3ff&amp;point=f9fafa&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a>
 <br>
 <!--iconos-->
 <div> 
