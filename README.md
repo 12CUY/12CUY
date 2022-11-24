@@ -1,7 +1,7 @@
-
+center=true&width=380&height=50
 <!--el nav-->
 <div align="center" > <h1>👋HOLA👋</h1> </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=26&duration=4000&pause=1000&color=2DDEFFF1&center=true&vCenter=true&width=500&lines=HOLA%2C+SOY+WILIAM!;Me+dedico;Al+desarrollode+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&height=50&size=26&duration=4000&pause=1000&color=2DDEFFF1&center=true&width=380&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" /></a>
 <br>
 <!--escrito con duration-->
 <div align="center">
