@@ -1,8 +1,8 @@
 
 
-<div align="center"> <h1>👋HOLA👋</h1> </div>
+<div align="center" > <h1>👋HOLA👋</h1> </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HOLA+SOY+WILIAM;Me+Dedico+al+desarrollo+de+software;Tengo+23+años;Soy+de+Ecuador;Me+gusta+el+frontend!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HOLA+SOY+WILIAM;Me+dedico+al+desarrollo+de+soft+ware;Tengo+23+años;Soy+de+Ecuador;Me+gusta+el+frontend!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&theme=dracula">
 </p> 
 <br>
 <div align="center">
