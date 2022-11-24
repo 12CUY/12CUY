@@ -1,15 +1,18 @@
 
 
-<div align="center"> <p>👋HOLA👋</p> </div>
-<h2>
-¡Hola, soy Wiliam Morales!, Me dedico al desarrollo de software. 
-</h2>
+<div align="center"> <h1>👋HOLA👋</h1> </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HOLA+SOY+WILIAM;
+  Me+Dedico+al+desarrollo+de+software;Tengo+23+años;Soy+de+Ecuador;
+  Me+gusta+el+frontend!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p> <br>
 <div align="center">
   <a href="https://github.com/12CUY">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12CUY&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+</br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
