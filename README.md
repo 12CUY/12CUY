@@ -2,14 +2,35 @@
 
 <div align="center" > <h1>👋HOLA👋</h1> </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HOLA+SOY+WILIAM;Me+dedico+al+desarrollo+de+software;Tengo+23+años;Soy+de+Ecuador;Me+gusta+el+frontend!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HOLA+SOY+WILIAM;Tengo+23+años;Soy+de+Ecuador;Me+gusta+el+frontend!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p> 
 <br>
+ 
 <div align="center">
   <a href="https://github.com/12CUY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=radical"/>
+    <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br>
+    <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <br>
+    <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <br>
+      <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=ondedark&include_all_commits=true&count_private=true"/>
+  <br>
+      <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <br>
+        <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <br>
+        <a href="https://github.com/12CUY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12CUY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
 </div>
 </br>
 <div style="display: inline_block"><br>
