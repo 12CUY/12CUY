@@ -23,6 +23,14 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
+<!--tabla-->
+
+<div>
+<a href="https://github.com/12CUY/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=12CUY&theme=react-dark"></a>
+</div>
+
+<br>
 <!--iconos-->
 <div> 
   <a href="https://www.instagram.com/wiliam1827/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,9 +41,6 @@
 </div>
 <br>
 
-<div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://camo.githubusercontent.com/5f4fe614e41a07e3e972df250c6675615549c74f933f3eedcde7b9f435d0ccca68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d62617346e6465762662675f636f6c6f723d30643131313726636f6c6f723d666666666666266c696e653d30306233666626706f696e743d66396661666126617265613d7472756526686964655f626f726465723d74727565" alt="Ashutosh's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=12CUY&amp;bg_color=0d1117&amp;color=ffffff&amp;line=00b3ff&amp;point=f9fafa&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a>
-</div>
+
 
 https://github.com/12CUY
