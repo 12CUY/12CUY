@@ -1,7 +1,7 @@
 
 <!--el nav-->
 <div align="center" > <h1>👋HOLA👋</h1> </div>
-<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" /></a>
+<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" /></a>
 <br>
 <!--escrito con duration-->
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 <!--imagenes de lenguajes-->
 </br>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
