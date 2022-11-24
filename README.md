@@ -1,7 +1,7 @@
 
 <!--el nav-->
 <div align="center" > <h1>👋HOLA👋</h1> </div>
-<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=700&height=50&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" /></a>
+<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" /></a>
 <br>
 <!--escrito con duration-->
 <div align="center">
@@ -32,5 +32,10 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 <br>
+
+<div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://camo.githubusercontent.com/5f4fe614e41a07e3e972df250c6675615549c74f933f3eedcde7b9f435d0ccca68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d62617346e6465762662675f636f6c6f723d30643131313726636f6c6f723d666666666666266c696e653d30306233666626706f696e743d66396661666126617265613d7472756526686964655f626f726465723d74727565" alt="Ashutosh's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=12CUY&amp;bg_color=0d1117&amp;color=ffffff&amp;line=00b3ff&amp;point=f9fafa&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a>
+</div>
 
 https://github.com/12CUY
