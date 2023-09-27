@@ -1,7 +1,8 @@
 
 <!--el nav-->
-<div align="center" > <h1>👋HOLA👋</h1> </div>
-<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os" alt="Typing SVG" style="max-width: 100%"/></a>
+<hr>
+<div align="center" > <h1>👋  -  HOLA</h1> </div>
+<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os;Soy+de+Ecuador" alt="Typing SVG" style="max-width: 100%"/></a>
 <br>
 <!--escrito con duration-->
 <div align="center">
