@@ -1,8 +1,8 @@
 
 <!--el nav-->
 <hr>
-<div align="center" > <h1>👋  -  HOLA</h1> </div>
-<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+23+a%C3%B1os;Soy+de+Ecuador" alt="Typing SVG" style="max-width: 100%"/></a>
+<div align="center" > <h1>👋 -  HOLA</h1> </div>
+<a href="https://github.com/12CUY"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=26&duration=4000&pause=1000&color=2DDEFFF1&vCenter=true&center=true&width=800&height=100&lines=HOLA%2C+SOY+WILIAM!;Me+dedico+al+desarrollo+de+software;Soy+de+Ecuador;Tengo+24+a%C3%B1os;Soy+de+Ecuador" alt="Typing SVG" style="max-width: 100%"/></a>
 <br>
 <!--escrito con duration-->
 <div align="center">
@@ -22,6 +22,11 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
 
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
 </div>
 <br>
 <!--iconos-->
