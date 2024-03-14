@@ -35,6 +35,9 @@
 
   <img align="center" alt="UX/UI" height="30" width="40" src="https://image.flaticon.com/icons/svg/888/888859.svg">
 
+  <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
+
+  <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
 
 </div>
 <br>
